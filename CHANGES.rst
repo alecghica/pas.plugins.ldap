@@ -5,7 +5,8 @@ History
 1.6.3 (unreleased)
 ------------------
 
-- No changes yet.
+- Grant the Member role to all LDAP users.
+  [reinhardt]
 
 
 1.6.2 (2019-09-12)
